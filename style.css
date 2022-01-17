@@ -1,0 +1,19 @@
+.btn-primary{
+        margin-left: 408px;
+        width: 300px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+}
+.btn-danger{
+        margin-left: 533px;
+        width: 300px;
+        margin-top:8px;
+}
+.btn-success{
+        margin-left: 533px;
+        width: 300px;
+        margin-top:5px;
+}
+body{
+    background-color: #f7f1e3;
+}
